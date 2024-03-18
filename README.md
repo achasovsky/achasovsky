@@ -51,7 +51,9 @@
 
 Одно из направлений в аналитике данных сегодня - это спортивная аналитика. Обычно исследуются данные наиболее популярных видов спорта: футбол, баскетбол, бейсбол, американский футбол. В свою очередь, я придумал методику, с помощью которой можно лучше понять такой вид спорта, как чемпионат мира по мотогонкам MotoGP. По запросу пользователя скрипт автоматически скачивает протокол гонки в формате pdf (используя навигацию сайта), извлекает из него данные, преобразовывает, считает метрики и строит итоговые графики.  
 
-#### <img src='img/logo-alert.png' valign='0em' width='15'> &ensp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system)
+### Другие проекты: 
+
+<img src='img/logo-alert.png' valign='0em' width='15'> &ensp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system) , <img src='img/logo-etl.png' width='17' style='vertical-align:0em;'> &ensp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline)
 
 <font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
 
