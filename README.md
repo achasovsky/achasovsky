@@ -27,7 +27,7 @@
 
 
 
-- #### <img src='img/logo-credit-card.png' valign='-0.4em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
+- #### <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Машинное обучение, классификация* </font>
 
@@ -45,7 +45,7 @@
 
 
 
-- #### <img src='img/logo-motogp.png' valign='-0.15em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
+- #### <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
 
