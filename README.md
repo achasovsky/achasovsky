@@ -24,6 +24,9 @@
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
+
 
 
 #### <img src='img/logo-credit-card.png' valign='-0.2em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
