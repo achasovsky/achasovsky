@@ -1,0 +1,5 @@
+
+.DS_Store
+.gitattributes
+/.ipynb_checkpoints
+readme.ipynb
