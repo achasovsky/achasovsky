@@ -20,11 +20,9 @@
 
 ### Список проектов
 
-#### <img src='img/logo-house.png' valign='-0.1em' width='20' style='margin-left:-0.2em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
+#### <img src='img/logo-house.png' valign='-0.1em' width='20' style='margin-left:-0.2em;'> &ensp; ![#f03c15][Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
-
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 
 
