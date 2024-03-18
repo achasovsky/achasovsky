@@ -9,11 +9,11 @@
     &ensp;&ensp;&ensp;\- описательная и предиктивная аналитика, регрессионный анализ, выявление взаимосвязей в данных, проверка гипотез;  
     &ensp;&ensp;&ensp;\- методы машиного обучения (классификация, регрессия, кластеризация);  
     &ensp;&ensp;&ensp;\- дата-инженерные задачи, построение ETL-пайплайнов (SQL, Clickhouse, Airflow);  
-    &ensp;&ensp;&ensp;\- программирование и стат. пакеты: Python, R, Stata, SPSS, Statistica;  
-    &ensp;&ensp;&ensp;\- ML-алгоритмы и библиотеки: sklearn, xgboost, lightgbm, scipy, statsmodels, tensorflow, keras, pytorch, ;  
+    &ensp;&ensp;&ensp;\- программирование и статистические пакеты: Python, R, Stata, SPSS, Statistica;  
+    &ensp;&ensp;&ensp;\- ML-алгоритмы и библиотеки: sklearn, scipy, statsmodels, xgboost, etc.;  
     &ensp;&ensp;&ensp;\- визуализация и BI (Superset, Redash, Tableau)
 
-<hr>
+<hr style='border:1px solid red'>
 
 #### Список проектов
 
