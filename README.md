@@ -26,7 +26,7 @@
 
 
 
-### <img src='img/logo-credit-card.png' valign='-0.19em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
+### <img src='img/logo-credit-card.png' valign='-0.2em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Машинное обучение, классификация* </font>
 
