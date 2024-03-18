@@ -27,7 +27,7 @@ https://t.me/a_chasovsky
 
 <a
     href='https://a-chasovsky.github.io/house-prices/'
-    style='text-decoration:none;font-weight:500;font-color:#1E5FA5;'
+    style='text-decoration:none;font-weight:500;color:#1E5FA5;'
     target="_blank">
     Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели
     </a>
