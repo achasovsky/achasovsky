@@ -17,11 +17,11 @@
 
 https://t.me/a_chasovsky
 
----
+<hr style='height:1px;border-width:0;background-color:#DAE2EA'>
 
 
 
-### Список проектов
+Список проектов
 
 #### <img src='img/logo-house.png' width='20' style='margin-left:-0.2em;vertical-align:-0.2em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
