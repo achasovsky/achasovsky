@@ -36,7 +36,7 @@
 
 Дополнительно рассматриваются техники работы с несбалансированными датасетами: undersampling, комбинирование undersampling и oversampling, присваение весов классам. 
 
-### <img src='img/logo-economics.png' valign='-0.2em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://a-chasovsky.github.io/economics-rus/)
+### <img src='img/logo-economics.png' valign='-0.25em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://a-chasovsky.github.io/economics-rus/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Преобразование и визуализация данных Росстата* </font>
 
@@ -44,7 +44,7 @@
 
 
 
-### <img src='img/logo-motogp.png' valign='-0.1em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
+### <img src='img/logo-motogp.png' valign='0em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
 
