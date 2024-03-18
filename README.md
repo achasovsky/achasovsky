@@ -13,7 +13,7 @@
     &ensp;&ensp;&ensp;\- ML-алгоритмы и библиотеки: sklearn, scipy, statsmodels, xgboost, etc.;  
     &ensp;&ensp;&ensp;\- визуализация и BI (Superset, Redash, Tableau)
 
-<hr style='border:1px solid red'>
+<hr style='color:red'>
 
 #### Список проектов
 
