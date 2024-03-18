@@ -22,6 +22,8 @@
 
 - #### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
+<a href='https://a-chasovsky.github.io/house-prices/' style='text-decoration:none;'>Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели</a>
+
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
 
