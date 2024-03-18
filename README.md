@@ -13,6 +13,8 @@
     &ensp;&ensp;&ensp;\- ML-алгоритмы и библиотеки: sklearn, xgboost, lightgbm, scipy, statsmodels, tensorflow, keras, pytorch, ;  
     &ensp;&ensp;&ensp;\- визуализация и BI (Superset, Redash, Tableau)
 
+<hr>
+
 #### Список проектов
 
 #### <img src='img/logo-house.png' width='20' style='margin-left:-0.2em;vertical-align:-0.2em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
