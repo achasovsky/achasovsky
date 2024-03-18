@@ -53,4 +53,4 @@
 
 ### Другие проекты
 
-<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system) , &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline) , &ensp; <img src='img/logo-ab.png'  valign='-0.2em' width='17'> &nbsp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
+<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system) , &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline) , &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
