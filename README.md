@@ -17,7 +17,7 @@
 
 https://t.me/a_chasovsky
 
-<hr style='height:0.1em;border-width:0;background-color:#DAE2EA'>
+<hr style='height:0.02em;border-width:0;background-color:#DAE2EA'>
 
 
 
