@@ -9,12 +9,12 @@
    
 * 👷‍♂️ &nbsp; Область знаний:  
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - статистический анализ данных, регрессионный анализ;  
-    &ensp;&ensp;&ensp;&ensp;&ensp;\- описательная и предиктивная аналитика;  
-    &ensp;&ensp;&ensp;&ensp;&ensp;\- машиное обучение (классификация, регрессия, кластеризация);  
-    &ensp;&ensp;&ensp;&ensp;&ensp;\- дата-инженерные задачи, построение ETL-пайплайнов (SQL, Clickhouse, Airflow);  
-    &ensp;&ensp;&ensp;&ensp;&ensp;\- программирование и статистические пакеты: Python, R, Stata, SPSS, Statistica;  
-    &ensp;&ensp;&ensp;&ensp;&ensp;\- ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.;  
-    &ensp;&ensp;&ensp;&ensp;&ensp;\- визуализация и BI (Superset, Redash, Tableau).
+    &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - описательная и предиктивная аналитика;  
+    &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - машиное обучение (классификация, регрессия, кластеризация);  
+    &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - дата-инженерные задачи, построение ETL-пайплайнов (SQL, Clickhouse, Airflow);  
+    &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - программирование и статистические пакеты: Python, R, Stata, SPSS, Statistica;  
+    &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.;  
+    &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau).
 
 <hr style='color:red'>
 
