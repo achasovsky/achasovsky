@@ -20,14 +20,14 @@
 
 ### Список проектов
 
-#### <img src='img/logo-house.png' valign='-0.1em' width='20' style='margin-left:-0.2em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
+#### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.2em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
 
 
 
-#### <img src='img/logo-credit-card.png' valign='-0.2em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
+#### <img src='img/logo-credit-card.png' valign='-0.3em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Машинное обучение, классификация* </font>
 
@@ -37,7 +37,7 @@
 
 Дополнительно рассматриваются техники работы с несбалансированными датасетами: undersampling, комбинирование undersampling и oversampling, присваение весов классам. 
 
-#### <img src='img/logo-economics.png' valign='-0.25em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://a-chasovsky.github.io/economics-rus/)
+#### <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://a-chasovsky.github.io/economics-rus/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Преобразование и визуализация данных Росстата* </font>
 
@@ -45,7 +45,7 @@
 
 
 
-#### <img src='img/logo-motogp.png' valign='0em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
+#### <img src='img/logo-motogp.png' valign='-0.1em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
 
