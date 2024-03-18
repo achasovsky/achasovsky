@@ -53,20 +53,4 @@
 
 ### Другие проекты: 
 
-<img src='img/logo-alert.png' valign='0em' width='15'> &ensp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system) , <img src='img/logo-etl.png' width='17' style='vertical-align:0em;'> &ensp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline)
-
-<font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
-
-Система осуществляет поиск аномалий в данных в режиме, близком к реальному времени (временной интервал - 15 минут). В качестве базового периода берутся средние значения аналогичного интервала за предыдущие 3 дня, считаются верхние и нижние пороги, и в случае обнаружения аномальных значений ответственному лицу отправляется сообщение в мессенджере Telegram.
-
-#### <img src='img/logo-etl.png' width='17' style='vertical-align:0em;'> &ensp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline)
-
-<font size='2'> &ensp; &ensp; &ensp; *Дата-инжиниринг* </font>
-
-Данные выгружаются из нескольких таблиц БД, рассчитываются агрегированные характеристики. Результаты записываются в датафрейм, который загружается обратно в базу. Процедура повторяется один раз в сутки.
-
-#### <img src='img/logo-ab.png' width='17' style='vertical-align:0em;'> &ensp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
-
-<font size='2'> &ensp; &ensp; &ensp; *Статистические тесты* </font>
-
-A/B тест с выводами и рекомендациями.
+<img src='img/logo-alert.png' valign='0em' width='15'> &ensp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system) , <img src='img/logo-etl.png' width='17' style='vertical-align:0em;'> &ensp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline) , <img src='img/logo-ab.png' width='17' style='vertical-align:0em;'> &ensp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
