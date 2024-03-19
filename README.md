@@ -20,7 +20,7 @@
 Ознакомьтесь с кратким описанием моих проектов:
 
 - <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; Комбинирование регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели - *регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика*  
-&ensp; &ensp; &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</font></a></font>
+<a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</font></a></font>
 
 - <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp;  Обнаружение мошеннических операций с кредитными картами - *машинное обучение, классификация*  
 <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/credit-card-fraud-detection' target='_blank'>Перейти к репозиторию</font></a></font>
