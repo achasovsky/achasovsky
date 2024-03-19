@@ -20,6 +20,8 @@
 
 ### Список проектов
 
+Существует ряд ограничений
+
 - #### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для увеличения точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
@@ -51,4 +53,4 @@
 
 ### Другие проекты
 
-<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system) , &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline) , &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
+<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system)  &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline)  &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
