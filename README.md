@@ -20,9 +20,9 @@
 
 Ознакомьтесь моими проектами:
 
--  &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>AdvancedRegression</a> [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/)
+- [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>AdvancedRegression</a>
 
--  &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>CreditCardFraudDetection</a> [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/)
+- [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>CreditCardFraudDetection</a>
 
 - [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Данные Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economics-rus/'>EconomicsRus</a>
 
