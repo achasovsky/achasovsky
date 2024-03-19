@@ -18,18 +18,18 @@
 
 Ознакомьтесь с описанием моих проектов
 
-- #### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для повышения <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
+- #### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для повышения <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; точности и интерпретируемости модели](https://achasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
-&ensp; &ensp; &ensp; <a href='https://a-chasovsky.github.io/house-prices/' target='_blank'><font size='2'>Ссылка на проект</font></a>
+&ensp; &ensp; &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'><font size='2'>Ссылка на проект</font></a>
 
 В проекте оценивается эффект от включения в регрессионную модель оценщика остатков (ошибок) регрессии. Отдельно для каждого этапа оценивается влияние исправления ошибок в данных, очистки и добавления новых предикторов. 
 
 Раобта сочетает в себе классический регрессионный анализ и проект по созданию модели машинного обучения. В результате получаеются три переходные модели на этапе исследования и подготовки данных, регрессионная модель, две модели машинного обучения (линейная и ансамбль Stacking), а также финальный регрессор. 
 #
 
-- #### <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://a-chasovsky.github.io/credit-card-fraud-detection/)
+- #### <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://achasovsky.github.io/credit-card-fraud-detection/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Машинное обучение, классификация* </font>
 
@@ -41,13 +41,13 @@
 
 #
 
-- #### <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://a-chasovsky.github.io/economics-rus/)
+- #### <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://achasovsky.github.io/economics-rus/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Преобразование и визуализация данных Росстата* </font>
 
 #
 
-- #### <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; [MotoGP Analytics](https://a-chasovsky.github.io/motogp-analytics/)
+- #### <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; [MotoGP Analytics](https://achasovsky.github.io/motogp-analytics/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
 
@@ -57,4 +57,4 @@
 
 ### Другие проекты
 
-<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/a-chasovsky/kc_anomaly_detection_system)  &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/a-chasovsky/kc_etl_pipeline)  &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/a-chasovsky/kc_ab_testing)
+<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/achasovsky/kc_anomaly_detection_system)  &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/kc_etl_pipeline)  &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/achasovsky/kc_ab_testing)
