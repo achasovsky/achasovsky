@@ -21,7 +21,7 @@
 
 - <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; Комбинирование регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели - *регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика*
 
-<a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</font></a></font>
+&ensp; &ensp; &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</font></a></font>
 
 &ensp; &ensp; &ensp; <font size='2'>*Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
