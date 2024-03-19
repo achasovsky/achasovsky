@@ -18,9 +18,9 @@
 
 Ознакомьтесь с описанием моих проектов:
 
-- #### [Сочетание регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели](https://achasovsky.github.io/house-prices/)
+- #### Сочетание регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели
 
-<font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
+&ensp; &ensp; &ensp; <font size='2'>*Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
 &ensp; &ensp; &ensp; <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; 
 <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
@@ -44,15 +44,17 @@
 
 #
 
-- #### <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; [Данные Росстата о состоянии экономики РФ](https://achasovsky.github.io/economics-rus/)
+- #### Данные Росстата о состоянии экономики РФ
 
-<font size='2'> &ensp; &ensp; &ensp; *Преобразование и визуализация данных Росстата* </font>
+&ensp; &ensp; &ensp; <font size='2'>*Преобразование и визуализация данных Росстата* </font>
+&ensp; &ensp; &ensp; <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/economics-rus/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
 
 #
 
-- #### <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; [MotoGP Analytics](https://achasovsky.github.io/motogp-analytics/)
+- #### MotoGP Analytics
 
-<font size='2'> &ensp; &ensp; &ensp; *Аналитика данных* </font>
+&ensp; &ensp; &ensp; <font size='2'>*Аналитика данных* </font>
+&ensp; &ensp; &ensp; <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; &ensp; <a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
 
 Одно из направлений в аналитике данных сегодня - это спортивная аналитика. Обычно исследуются данные наиболее популярных видов спорта: футбол, баскетбол, бейсбол, американский футбол. В свою очередь, я придумал методику, с помощью которой можно лучше понять такой вид спорта, как чемпионат мира по мотогонкам MotoGP. По запросу пользователя скрипт автоматически скачивает протокол гонки в формате pdf (используя навигацию сайта), извлекает из него данные, преобразовывает, считает метрики и строит итоговые графики.  
 
