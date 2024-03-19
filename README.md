@@ -28,7 +28,7 @@
 - <img src='img/logo-economics.png' valign='-0.35em' width='20'> &nbsp; Данные Росстата о состоянии экономики РФ (
 <a href='https://achasovsky.github.io/economics-rus/'>ссылка на проект</a> )
 
-- <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &nbsp; Методика оценки чемпионата MotoGP (
+- <img src='img/logo-motogp.png' valign='-0.18em' width='25'> Методика оценки чемпионата MotoGP (
  <a href='https://achasovsky.github.io/motogp-analytics/'>ссылка на проект</a> )
 
 #
