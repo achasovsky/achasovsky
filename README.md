@@ -20,6 +20,8 @@
 
 - <font size=3>**Сочетание регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели**</font>
 
+<span style="font-size:0.5em;">Text goes here</span>
+
 &ensp; &ensp; &ensp; <font size='2'>*Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
 &ensp; &ensp; &ensp; <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; 
