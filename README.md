@@ -24,7 +24,7 @@
 
 <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Ссылка на проект</a>
 
-<a href='https://achasovsky.github.io/house-prices/' target='_blank'><span style="font-size:0.5em;">Text goes here</span></a>
+<a href='https://achasovsky.github.io/house-prices/' target='_blank'><span style="font-size:0.15em;">Text goes here</span></a>
 
 &ensp;  <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Ссылка на репозиторий</font></a></font>
 
