@@ -16,7 +16,8 @@
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.;  
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau).
 
-Ознакомьтесь с описанием моих проектов
+Ознакомьтесь с описанием моих проектов:
+
 - #### [Сочетание регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели](https://achasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
@@ -29,9 +30,11 @@
 Раобта сочетает в себе классический регрессионный анализ и проект по созданию модели машинного обучения. В результате получаеются три переходные модели на этапе исследования и подготовки данных, регрессионная модель, две модели машинного обучения (линейная и ансамбль Stacking), а также финальный регрессор. 
 #
 
-- #### <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; [Обнаружение мошеннических <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  операций с кредитными картами](https://achasovsky.github.io/credit-card-fraud-detection/)
+- #### [Обнаружение мошеннических операций с кредитными картами](https://achasovsky.github.io/credit-card-fraud-detection/)
 
-<font size='2'> &ensp; &ensp; &ensp; *Машинное обучение, классификация* </font>
+&ensp; &ensp; &ensp; <font size='2'>*Машинное обучение, классификация*</font>
+
+&ensp; &ensp; &ensp; <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
 
 В работе исследуется эффективность популярных алгоритмов машинного обучения, применяемых для выявления мошеннических операций с кредитными картами. 
 
