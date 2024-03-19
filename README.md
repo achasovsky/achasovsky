@@ -21,10 +21,10 @@
 
 - **Комбинирование регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели**
 
-&ensp; &ensp; &nbsp;&nbsp; <font size='2'>*Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
+&ensp; &ensp; &nbsp;&nbsp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика*
 
-<img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-10.3em;'> &ensp; 
-<a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</font></a></font>
+<img src='img/logo-house.png' valign='-0.2em' width='20'> &ensp; 
+<a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</a>
 
 В проекте оценивается эффект от включения в регрессионную модель оценщика остатков (ошибок) регрессии. Отдельно для каждого этапа оценивается влияние исправления ошибок в данных, очистки и добавления новых предикторов. 
 
@@ -34,9 +34,9 @@
 
 - **Обнаружение мошеннических операций с кредитными картами**
 
-&ensp; &ensp; &nbsp;&nbsp; <font size='2'>*Машинное обучение, классификация*</font>
+&ensp; &ensp; &nbsp;&nbsp; *Машинное обучение, классификация*
 
-<img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/credit-card-fraud-detection' target='_blank'>Перейти к репозиторию</font></a></font>
+<img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Перейти к проекту</a> &ensp; <a href='https://github.com/achasovsky/credit-card-fraud-detection' target='_blank'>Перейти к репозиторию</a>
 
 В работе исследуется эффективность популярных алгоритмов машинного обучения, применяемых для выявления мошеннических операций с кредитными картами. 
 
@@ -48,9 +48,9 @@
 
 - **Данные Росстата о состоянии экономики РФ**
 
-&ensp; &ensp; &nbsp;&nbsp; <font size='2'>*Преобразование и визуализация данных Росстата* </font>
+&ensp; &ensp; &nbsp;&nbsp; *Преобразование и визуализация данных Росстата*
 
-<img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/economics-rus/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/economics-rus' target='_blank'>Перейти к репозиторию</font></a></font>
+<img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/economics-rus/'>Перейти к проекту</a> &ensp; <a href='https://github.com/achasovsky/economics-rus' target='_blank'>Перейти к репозиторию</a>
 
 Федеральная служба государственной статистики (Росстат) регулярно публикует статистические данные о ключевых экономических показателях на своем сайте. Чтобы иметь возможность анализировать и визуализировать данные с помощью бибилотек Python, их необохдимо преобразовать.
 
@@ -60,9 +60,9 @@
 
 - **Методика оценки чемпионата MotoGP**
 
-&ensp; &ensp; &nbsp;&nbsp; <font size='2'>*Аналитика данных* </font>
+&ensp; &ensp; &nbsp;&nbsp; *Аналитика данных*
 
-<img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; <a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/motogp-analytics'>Перейти к репозиторию</font></a></font>
+<img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; <a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к проекту</a> &ensp; <a href='https://github.com/achasovsky/motogp-analytics'>Перейти к репозиторию</a>
 
 Одно из направлений в аналитике данных сегодня - это спортивная аналитика. Обычно исследуются данные наиболее популярных видов спорта: футбол, баскетбол, хоккей, бейсбол, американский футбол. Предложенная в этом проекте методика позволяет лучше понять мотоспорт. 
 
