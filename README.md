@@ -53,7 +53,7 @@
 
 #
 
-- **MotoGP Analytics**
+- **Методика оценки чемпионата MotoGP**
 
 &ensp; &ensp; &ensp; <font size='2'>*Аналитика данных* </font>
 
