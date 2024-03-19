@@ -20,7 +20,19 @@
 
 Ознакомьтесь с кратким описанием моих проектов:
 
-<img src='img/logo-house.png' valign='-0.2em' width='20'> - Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/house-prices/' target='_blank'>перейти к проекту</a>
+<img src='img/logo-house.png' valign='-0.2em' width='20'> &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/house-prices/' target='_blank'>перейти к проекту</a>
+
+<img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>перейти к проекту</a>
+
+<img src='img/logo-economics.png' valign='-0.35em' width='20'> &nbsp; Данные Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economics-rus/'>перейти к проекту</a>
+
+<img src='img/logo-motogp.png' valign='-0.18em' width='25'> &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>перейти к проекту</a>
+
+
+
+
+
+
 
 &ensp; &ensp; &nbsp;&nbsp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика*
 
