@@ -22,7 +22,7 @@
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
-&ensp; &ensp; &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank' style='font-size:0.1em'>Ссылка на проект</font></a>
+&ensp; &ensp; &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Ссылка на проект</font></a></font>
 
 В проекте оценивается эффект от включения в регрессионную модель оценщика остатков (ошибок) регрессии. Отдельно для каждого этапа оценивается влияние исправления ошибок в данных, очистки и добавления новых предикторов. 
 
