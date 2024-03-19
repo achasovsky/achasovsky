@@ -16,11 +16,13 @@
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.;  
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau).
 
-### Список проектов
+Ознакомьтесь с описанием моих проектов
 
 - #### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для повышения <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
+
+<a href='https://a-chasovsky.github.io/house-prices/' target='_blank'>Ссылка на проект</a>
 
 В проекте оценивается эффект от включения в регрессионную модель оценщика остатков (ошибок) регрессии. Отдельно для каждого этапа оценивается влияние исправления ошибок в данных, очистки и добавления новых предикторов. 
 
