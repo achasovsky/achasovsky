@@ -19,7 +19,7 @@
 
 Ознакомьтесь с моими проектами:
 
-- <img src='img/logo-house.png' valign='-0.2em' width='20'> &nbsp; Комбинирование регрессионного анализа и машинного обучения <br> &ensp;&ensp;&ensp;&nbsp;&nbsp;&nbsp; для повышения точности и интерпретируемости модели (
+- <img src='img/logo-house.png' valign='-0.2em' width='20'> &nbsp; Комбинирование регрессионного анализа и машинного обучения <br> &ensp;&ensp;&ensp;&nbsp;&nbsp; для повышения точности и интерпретируемости модели (
 <a href='https://achasovsky.github.io/house-prices/' target='_blank'>ссылка на проект</a> )
 
 - <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &nbsp;  Обнаружение мошеннических операций с кредитными картами (
