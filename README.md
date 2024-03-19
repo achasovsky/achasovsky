@@ -16,8 +16,6 @@
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.;  
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau).
 
-#
-
 Ознакомьтесь с кратким описанием моих проектов:
 
 - **Комбинирование регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели**
