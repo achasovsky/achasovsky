@@ -34,7 +34,7 @@
 
 - **Обнаружение мошеннических операций с кредитными картами**
 
-&ensp; &ensp; &nbsp;&nbsp;&nbsp; <font size='2'>*Машинное обучение, классификация*</font>
+&ensp; &ensp; &nbsp;&nbsp; <font size='2'>*Машинное обучение, классификация*</font>
 
 <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/credit-card-fraud-detection' target='_blank'>Перейти к репозиторию</font></a></font>
 
