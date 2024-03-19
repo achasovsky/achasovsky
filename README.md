@@ -17,7 +17,7 @@
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau).
 
 ### Список проектов
-#
+
 - #### <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; [Сочетание регрессионного анализа и машинного обучения для повышения <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; точности и интерпретируемости модели](https://a-chasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
