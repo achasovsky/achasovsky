@@ -35,7 +35,7 @@
 
 &ensp; &ensp; &ensp; <font size='2'>*Машинное обучение, классификация*</font>
 
-&ensp; &ensp; &ensp; <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
+&ensp; &ensp; &ensp; <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/credit-card-fraud-detection' target='_blank'>Перейти к репозиторию</font></a></font>
 
 В работе исследуется эффективность популярных алгоритмов машинного обучения, применяемых для выявления мошеннических операций с кредитными картами. 
 
@@ -49,7 +49,7 @@
 
 &ensp; &ensp; &ensp; <font size='2'>*Преобразование и визуализация данных Росстата* </font>
 
-&ensp; &ensp; &ensp; <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/economics-rus/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
+&ensp; &ensp; &ensp; <img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/economics-rus/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/economics-rus' target='_blank'>Перейти к репозиторию</font></a></font>
 
 #
 
@@ -57,7 +57,7 @@
 
 &ensp; &ensp; &ensp; <font size='2'>*Аналитика данных* </font>
 
-&ensp; &ensp; &ensp; <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; <a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
+&ensp; &ensp; &ensp; <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; <a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к репозиторию</font></a></font>
 
 Одно из направлений в аналитике данных сегодня - это спортивная аналитика. Обычно исследуются данные наиболее популярных видов спорта: футбол, баскетбол, бейсбол, американский футбол. В свою очередь, я придумал методику, с помощью которой можно лучше понять такой вид спорта, как чемпионат мира по мотогонкам MotoGP. По запросу пользователя скрипт автоматически скачивает протокол гонки в формате pdf (используя навигацию сайта), извлекает из него данные, преобразовывает, считает метрики и строит итоговые графики.  
 
