@@ -22,13 +22,12 @@
 
 - [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/house-prices/' target='_blank'>HousePricePredictor</a>
 
-- <img src='img/logo-house.png' valign='-0.2em' width='20'> &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/house-prices/' target='_blank'>HousePricePredictor</a>
 
-- <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>CreditCardFraudDetection</a>
+- [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>CreditCardFraudDetection</a>
 
-- <img src='img/logo-economics.png' valign='-0.35em' width='20'> &nbsp; Данные Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economics-rus/'>EconomicsRus</a>
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economics-rus/'>EconomicsRus) &nbsp; Данные Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economics-rus/'>EconomicsRus</a>
 
-- <img src='img/logo-motogp.png' valign='-0.15em' width='20'> &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotogpAnalytics</a>
+- [<img src='img/logo-motogp.png' valign='-0.15em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotogpAnalytics</a>
 
 #
 
