@@ -68,4 +68,4 @@
 
 - **Другие проекты по работе с данными**
 
-<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System (https://github.com/achasovsky/kc_anomaly_detection_system)  &ensp;&ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/kc_etl_pipeline)  &ensp;&ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/achasovsky/kc_ab_testing)
+<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System] (https://github.com/achasovsky/kc_anomaly_detection_system)  &ensp;&ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/kc_etl_pipeline)  &ensp;&ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/achasovsky/kc_ab_testing)
