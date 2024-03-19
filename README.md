@@ -20,7 +20,7 @@
 
 Ознакомьтесь моими проектами:
 
-- [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и ML-алгоритма - <a href='https://achasovsky.github.io/house-prices/' target='_blank'>HousePricePredictor</a>
+- [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и ML-алгоритмов - <a href='https://achasovsky.github.io/house-prices/' target='_blank'>HousePricePredictor</a>
 
 
 - [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>CreditCardFraudDetection</a>
