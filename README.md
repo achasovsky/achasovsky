@@ -17,20 +17,55 @@
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.
 
 
-Ознакомьтесь с моими проектами:
+Ознакомьтесь с кратким описанием моих проектов:
 
-- <img src='img/logo-house.png' valign='-0.2em' width='20'> &nbsp; Комбинирование регрессионного анализа и машинного обучения <br> &ensp;&ensp;&ensp;&nbsp;&nbsp; для повышения точности и интерпретируемости модели - 
-<a href='https://achasovsky.github.io/house-prices/' target='_blank'>перейти к проекту</a> 
+- **Комбинирование регрессионного анализа и машинного обучения для повышения <br> точности и интерпретируемости модели**
 
-- <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &nbsp;  Обнаружение мошеннических операций с кредитными картами -
-<a href='https://achasovsky.github.io/credit-card-fraud-detection/'>перейти к проекту</a>
+&ensp; &ensp; &ensp; <font size='2'>*Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
-- <img src='img/logo-economics.png' valign='-0.35em' width='20'> &nbsp; Данные Росстата о состоянии экономики РФ -
-<a href='https://achasovsky.github.io/economics-rus/'>перейти к проекту</a>
+<img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; 
+<a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/house-prices' target='_blank'>Перейти к репозиторию</font></a></font>
 
-- <img src='img/logo-motogp.png' valign='-0.18em' width='25'> &nbsp; Методика оценки чемпионата MotoGP -
- <a href='https://achasovsky.github.io/motogp-analytics/'>перейти к проекту</a>
+В проекте оценивается эффект от включения в регрессионную модель оценщика остатков (ошибок) регрессии. Отдельно для каждого этапа оценивается влияние исправления ошибок в данных, очистки и добавления новых предикторов. 
+
+Работа объединяет классический регрессионный анализ и проект по созданию модели машинного обучения. В результате получаеются три переходные модели на этапе исследования и подготовки данных, регрессионная модель, две модели машинного обучения (линейная и ансамбль Stacking), а также финальный регрессор. 
 
 #
 
-- Другие проекты по работе с данными: <img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/achasovsky/kc_anomaly_detection_system)  &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/kc_etl_pipeline)  &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/achasovsky/kc_ab_testing)
+- **Обнаружение мошеннических операций с кредитными картами**
+
+&ensp; &ensp; &ensp; <font size='2'>*Машинное обучение, классификация*</font>
+
+<img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/credit-card-fraud-detection' target='_blank'>Перейти к репозиторию</font></a></font>
+
+В работе исследуется эффективность популярных алгоритмов машинного обучения, применяемых для выявления мошеннических операций с кредитными картами. 
+
+Для повышения эффективности создаются новые переменные, учитывающие поведение клиентов (согласно RFM). При обучении и валидации моделей учитываются особенности работы с банковскими транзакциями и временными рядами. Для оценки ML-алгоритмов применяются метрики AUC ROC, Average Precision, Card Precision, строятся кривые ROC и PR, исследуется влияние величины порогового коэффициента. 
+
+Дополнительно рассматриваются техники работы с несбалансированными датасетами: oversampling, undersampling, комбинирование undersampling и oversampling, присвоение весов классам. 
+
+#
+
+- **Данные Росстата о состоянии экономики РФ**
+
+&ensp; &ensp; &ensp; <font size='2'>*Преобразование и визуализация данных Росстата* </font>
+
+<img src='img/logo-economics.png' valign='-0.35em' width='20'> &ensp; <a href='https://achasovsky.github.io/economics-rus/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/economics-rus' target='_blank'>Перейти к репозиторию</font></a></font>
+
+#
+
+- **Методика оценки чемпионата MotoGP**
+
+&ensp; &ensp; &ensp; <font size='2'>*Аналитика данных* </font>
+
+<img src='img/logo-motogp.png' valign='-0.18em' width='25'> &ensp; <a href='https://achasovsky.github.io/motogp-analytics/'>Перейти к проекту</a> &ensp; <font size='2'><a href='https://github.com/achasovsky/motogp-analytics'>Перейти к репозиторию</font></a></font>
+
+Одно из направлений в аналитике данных сегодня - это спортивная аналитика. Обычно исследуются данные наиболее популярных видов спорта: футбол, баскетбол, хоккей, бейсбол, американский футбол. Предложенная в этом проекте методика позволяет лучше понять мотоспорт. 
+
+В качестве примера анализируются данные мирового чемпионата по мотогонкам MotoGP. По запросу пользователя скрипт автоматически скачивает протокол гонки в формате pdf (используя навигацию сайта), извлекает из него данные, преобразовывает, считает метрики и строит итоговые графики.  
+
+#
+
+- **Другие проекты по работе с данными**
+
+<img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection System](https://github.com/achasovsky/kc_anomaly_detection_system)  &ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/kc_etl_pipeline)  &ensp; <img src='img/logo-ab.png'  valign='-0.3em' width='17'> &nbsp; [A/B Test](https://github.com/achasovsky/kc_ab_testing)
