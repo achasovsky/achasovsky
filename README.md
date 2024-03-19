@@ -16,7 +16,7 @@
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.;  
     &ensp;&ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau).
 
-<hr style='color:red'>
+<hr style="border:2px solid red">
 
 ### Список проектов
 
