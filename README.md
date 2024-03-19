@@ -18,18 +18,20 @@
 
 Ознакомьтесь с описанием моих проектов
 
-- #### [Сочетание регрессионного анализа и машинного обучения для повышения <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; точности и интерпретируемости модели](https://achasovsky.github.io/house-prices/)
+- #### [Сочетание регрессионного анализа и машинного обучения для повышения точности и интерпретируемости модели](https://achasovsky.github.io/house-prices/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Регрессионный анализ, машинное обучение, описательная аналитика, предиктивная аналитика* </font>
 
-<img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; <a href='https://achasovsky.github.io/house-prices/' target='_blank'>Ссылка на проект</a> &ensp;  <font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Ссылка на репозиторий</font></a></font>
+&ensp; &ensp; &ensp; <img src='img/logo-house.png' valign='-0.2em' width='20' style='margin-left:-0.3em;'> &ensp; 
+<a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к проекту</a> &ensp;  
+<font size='2'><a href='https://achasovsky.github.io/house-prices/' target='_blank'>Перейти к репозиторию</font></a></font>
 
 В проекте оценивается эффект от включения в регрессионную модель оценщика остатков (ошибок) регрессии. Отдельно для каждого этапа оценивается влияние исправления ошибок в данных, очистки и добавления новых предикторов. 
 
 Раобта сочетает в себе классический регрессионный анализ и проект по созданию модели машинного обучения. В результате получаеются три переходные модели на этапе исследования и подготовки данных, регрессионная модель, две модели машинного обучения (линейная и ансамбль Stacking), а также финальный регрессор. 
 #
 
-- #### <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; [Обнаружение мошеннических операций с кредитными картами](https://achasovsky.github.io/credit-card-fraud-detection/)
+- #### <img src='img/logo-credit-card.png' valign='-0.35em' width='20'> &ensp; [Обнаружение мошеннических <br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  операций с кредитными картами](https://achasovsky.github.io/credit-card-fraud-detection/)
 
 <font size='2'> &ensp; &ensp; &ensp; *Машинное обучение, классификация* </font>
 
