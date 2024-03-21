@@ -19,9 +19,7 @@
 * 🎓 &nbsp; Изучаю сейчас:  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - Временные ряды: методы анализа и прогнозирования.
 
-#
-
-__Список проектов__:
+Ознакомьтесь с моими проектами:
 
 - [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
 
