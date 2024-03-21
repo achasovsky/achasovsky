@@ -16,7 +16,7 @@
 &ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau);  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - программирование и статистические пакеты: Python, R, Stata, SPSS, Statistica;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.
-
+&ensp;&ensp;&ensp;&ensp;&nbsp; В данный момент уделяю особое внимание изучению временных рядов 📈
 
 __Список проектов__:
 
