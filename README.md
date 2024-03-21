@@ -2,13 +2,13 @@
 
 Я работаю специалистом по анализу данных и машинному обучению.
 
-&ensp;&ensp;&ensp;🏛️ &nbsp; Сфера деятельности:  
+- 🏛️ &nbsp; Сфера деятельности:  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - анализ социально-экономических показателей;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - сравнительный анализ региональных данных;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - исследования в сотрудничестве с региональными и областными администрациями;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - научно-исследовательские работы (экономика, гос. управление).
    
-&ensp;&ensp;&ensp;⚒️ &nbsp; Инструментарий:   
+- ⚒️ &nbsp; Инструментарий:   
 &ensp;&ensp;&ensp;&ensp;&nbsp; - статистический анализ данных;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - описательная и предиктивная аналитика;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - машиное обучение (классификация, регрессия, кластеризация);  
@@ -17,18 +17,18 @@
 &ensp;&ensp;&ensp;&ensp;&nbsp; - программирование и статистические пакеты: Python, R, Stata, SPSS, Statistica;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.  
 
-&ensp;&ensp;&ensp;🎓 &nbsp; Изучаю сейчас:  
+- 🎓 &nbsp; Изучаю сейчас:  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - Временные ряды: методы анализа и прогнозирования.
 
 Ознакомьтесь с моими проектами:
 
-&ensp;&ensp;&ensp;[<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и методов машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
+- [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и методов машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
 
-&ensp;&ensp;&ensp;[<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection</a>
+- [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection</a>
 
-&ensp;&ensp;&ensp;[<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Данные Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economics-rus/'>Economy-Rus</a>
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Данные Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economics-rus/'>Economy-Rus</a>
 
-&ensp;&ensp;&ensp;[<img src='img/logo-motogp.png' valign='-0.15em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
+- [<img src='img/logo-motogp.png' valign='-0.15em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
 #
 
