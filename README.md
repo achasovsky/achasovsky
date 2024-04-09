@@ -14,7 +14,7 @@
 &ensp;&ensp;&ensp;&ensp;&nbsp; - машиное обучение (классификация, регрессия, кластеризация);  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - дата-инженерные задачи, ETL-пайплайны (SQL, Clickhouse, Airflow);  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau);  
-&ensp;&ensp;&ensp;&ensp;&nbsp; - программирование и статистические пакеты: Python, R, Stata, SPSS, Statistica;  
+&ensp;&ensp;&ensp;&ensp;&nbsp; - программирование и статистические пакеты: Python, R, Stata, SPSS;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: sklearn, scipy, statsmodels, xgboost, etc.  
 
 - 🎓 &nbsp; Изучаю сейчас:  
