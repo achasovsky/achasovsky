@@ -20,6 +20,8 @@
 - 🎓 &nbsp; Изучаю сейчас:  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - Временные ряды: методы анализа и прогнозирования.
 
+#
+
 Ознакомьтесь с моими проектами:
 
 - [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
@@ -29,6 +31,9 @@
 - [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Обработка данных Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
 
 - [<img src='img/logo-motogp.png' valign='-0.15em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
+
+В процессе:
+- [<img src='img/logo-power.png' valign='-0.15em' width='20'>](https://achasovsky.github.io/electric-power-consumption/) &nbsp; Прогноз потребления электроэнергии в Марокко - <a href='https://achasovsky.github.io/electric-power-consumption/'>Morocco-Power-Consumption</a>
 
 #
 
