@@ -30,7 +30,7 @@
 
 - [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Обработка данных Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
 
-- [<img src='img/logo-motogp.png' valign='-0.05em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
+- [<img src='img/logo-motogp.png' valign='-0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
 В процессе:
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/electric-power-consumption/) &nbsp; Прогноз потребления электроэнергии в Марокко - <a href='https://achasovsky.github.io/electric-power-consumption/'>Morocco-Power-Consumption</a>
