@@ -33,7 +33,7 @@
 - [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
 В процессе:
-- [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/electric-power-consumption/) &nbsp; Прогноз потребления электроэнергии в Марокко - <a href='https://achasovsky.github.io/electric-power-consumption/'>Morocco-Power-Consumption</a>
+- [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/electric-power-consumption/) &nbsp; Прогнозирование потребления электроэнергии в Марокко - <a href='https://achasovsky.github.io/electric-power-consumption/'>Morocco-Power-Consumption</a>
 
 #
 
