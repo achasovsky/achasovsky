@@ -2,7 +2,7 @@
 
 Я работаю специалистом по анализу данных и машинному обучению.
 
-- <img src='img/logo-activity.png' valign='-0.2em' width='22'> &nbsp; Сфера деятельности:  
+- [<img src='img/logo-activity.png'](https://github.com/achasovsky) valign='-0.2em' width='22'> &nbsp; Сфера деятельности:  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - анализ социально-экономических показателей;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - сравнительный анализ региональных данных;  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - исследования в сотрудничестве с региональными и областными администрациями;  
