@@ -40,4 +40,4 @@
 __Другие проекты по работе с данными__:
 
 <img src='img/logo-ab.png'  valign='-0.4em' width='17'> &nbsp; [A/B Test](https://github.com/achasovsky/ab-testing)
-&ensp;&ensp; | &ensp;&ensp; <img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection](https://github.com/achasovsky/anomaly-detection-system)  &ensp;&ensp; | &ensp;&ensp; <img src='img/logo-etl.png'  valign='-0.2em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/etl-pipeline) | &ensp;&ensp; <img src='img/logo-bootstrap3.png'  valign='-0.2em' width='17'> &nbsp; [Poisson-Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
+&ensp;&ensp; | &ensp;&ensp; <img src='img/logo-alert.png' valign='-0.2em' width='15'> &nbsp; [Anomaly Detection](https://github.com/achasovsky/anomaly-detection-system)  &ensp;&ensp; | &ensp;&ensp; <img src='img/logo-etl.png'  valign='-0.3em' width='17'> &nbsp; [ETL-Pipeline](https://github.com/achasovsky/etl-pipeline) | &ensp;&ensp; <img src='img/logo-bootstrap3.png'  valign='-0.2em' width='17'> &nbsp; [Poisson-Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
