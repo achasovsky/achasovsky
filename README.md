@@ -40,9 +40,9 @@
 Другие проекты по работе с данными:
 
 [<img src='img/logo-ab.png'  valign='-0.4em' width='17'>](https://github.com/achasovsky/ab-testing) &nbsp; [A/B Test](https://github.com/achasovsky/ab-testing)
-&ensp;&ensp;&nbsp; | &ensp;&ensp;&nbsp;
+&ensp;&ensp; | &ensp;&ensp;
 [<img src='img/logo-alert.png' valign='-0.2em' width='15'>](https://github.com/achasovsky/anomaly-detection-system) &nbsp; [Anomaly Detection](https://github.com/achasovsky/anomaly-detection-system)
-&ensp;&ensp;&nbsp; | &ensp;&ensp;&nbsp;
+&ensp;&ensp; | &ensp;&ensp;
 [<img src='img/logo-etl.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/etl-pipeline) &nbsp; [ETL-Pipeline](https://github.com/achasovsky/etl-pipeline)
-&ensp;&ensp;&nbsp; | &ensp;&nbsp;&nbsp;
+&ensp;&ensp; | &ensp;&nbsp;
 [<img src='img/logo-bootstrap.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/poisson_bootstrap) &nbsp; [Poisson-Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
