@@ -39,7 +39,7 @@
 
 __Другие проекты по работе с данными__:
 
-[<img src='img/logo-ab.png'  valign='-0.4em' width='17'>](A/B Test](https://github.com/achasovsky/ab-testing) &nbsp; [A/B Test](https://github.com/achasovsky/ab-testing)
+[<img src='img/logo-ab.png'  valign='-0.4em' width='17'>](https://github.com/achasovsky/ab-testing) &nbsp; [A/B Test](https://github.com/achasovsky/ab-testing)
 &ensp;&ensp; | &ensp;&ensp;
 [<img src='img/logo-alert.png' valign='-0.2em' width='15'>](https://github.com/achasovsky/anomaly-detection-system) &nbsp; [Anomaly Detection](https://github.com/achasovsky/anomaly-detection-system)
 &ensp;&ensp; | &ensp;&ensp;
