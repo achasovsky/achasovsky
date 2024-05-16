@@ -38,6 +38,7 @@
 #
 
 Другие проекты по работе с данными:
+
 &ensp;&ensp;   &ensp;&nbsp;
 [<img src='img/logo-ab.png'  valign='-0.4em' width='17'>](https://github.com/achasovsky/ab-testing) &nbsp; [A/B Test](https://github.com/achasovsky/ab-testing)
 &ensp;&ensp; | &ensp;&ensp;
