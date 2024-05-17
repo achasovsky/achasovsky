@@ -24,26 +24,26 @@
 
 Ознакомьтесь с моими проектами:
 
-- [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced Regression</a>
+- [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
 
-- [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit Card Fraud Detection</a>
+- [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection</a>
 
-- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Обработка данных Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economy-rus/'>Economy Rus</a>
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Обработка данных Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
 
-- [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP Analytics</a>
+- [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
 В процессе:
-- [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression Boosting</a>
+- [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a>
 
 #
 
 Другие проекты по работе с данными:
 
 &ensp;&ensp;   &ensp;&nbsp;
-[<img src='img/logo-ab.png'  valign='-0.4em' width='17'>](https://github.com/achasovsky/ab-testing) &nbsp; [A/B Test](https://github.com/achasovsky/ab-testing)
+[<img src='img/logo-ab.png'  valign='-0.4em' width='17'>](https://github.com/achasovsky/ab-testing) &nbsp; [A/B-Test](https://github.com/achasovsky/ab-testing)
 &ensp;&ensp; | &ensp;&ensp;
-[<img src='img/logo-alert.png' valign='-0.2em' width='15'>](https://github.com/achasovsky/anomaly-detection-system) &nbsp; [Anomaly Detection](https://github.com/achasovsky/anomaly-detection-system)
+[<img src='img/logo-alert.png' valign='-0.2em' width='15'>](https://github.com/achasovsky/anomaly-detection-system) &nbsp; [Anomaly-Detection](https://github.com/achasovsky/anomaly-detection-system)
 &ensp;&ensp; | &ensp;&ensp;
-[<img src='img/logo-etl.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/etl-pipeline) &nbsp; [ETL Pipeline](https://github.com/achasovsky/etl-pipeline)
+[<img src='img/logo-etl.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/etl-pipeline) &nbsp; [ETL-Pipeline](https://github.com/achasovsky/etl-pipeline)
 &ensp;&ensp; | &ensp;&nbsp;
-[<img src='img/logo-bootstrap.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/poisson_bootstrap) &nbsp; [Poisson Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
+[<img src='img/logo-bootstrap.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/poisson_bootstrap) &nbsp; [Poisson-Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
