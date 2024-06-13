@@ -28,7 +28,7 @@
 
 - [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection</a>
 
-- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Обработка данных Росстата о состоянии экономики РФ - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд 'Экономика России' - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus</a>
 
 - [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
