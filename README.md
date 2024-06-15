@@ -34,6 +34,8 @@
 
 - [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
 #
 
 Другие проекты по работе с данными:
@@ -49,4 +51,6 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true&title_color=31629A$hide_border=True&hide_title=True&card_width=900)
+Языки программирования, используемые в проектах
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true&bg_color=FFFFFF&title_color=31629A$hide_border=True&hide_title=True&card_width=900)
