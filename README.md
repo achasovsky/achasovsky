@@ -46,3 +46,9 @@
 [<img src='img/logo-etl.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/etl-pipeline) &nbsp; [ETL-Pipeline](https://github.com/achasovsky/etl-pipeline)
 &ensp;&ensp; | &ensp;&nbsp;
 [<img src='img/logo-bootstrap.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/poisson_bootstrap) &nbsp; [Poisson-Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
+
+#
+
+Используемые языки программирования:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true)
