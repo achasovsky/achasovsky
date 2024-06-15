@@ -49,4 +49,4 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true&title_color=31629A$hide_border=True&hide_title=True)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true&title_color=31629A$hide_border=True&hide_title=True&card_width=900)
