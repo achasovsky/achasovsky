@@ -46,9 +46,3 @@
 [<img src='img/logo-alert.png' valign='-0.2em' width='15'>](https://github.com/achasovsky/anomaly-detection-system) &nbsp; [Anomaly-Detection](https://github.com/achasovsky/anomaly-detection-system)
 &ensp;&ensp; | &ensp;&ensp;
 [<img src='img/logo-bootstrap.png'  valign='-0.3em' width='17'>](https://github.com/achasovsky/poisson_bootstrap) &nbsp; [Poisson-Bootstrap](https://github.com/achasovsky/poisson_bootstrap)  
-
-#
-
-Языки программирования, используемые в проектах
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true&bg_color=FFFFFF&title_color=31629A$hide_border=True&hide_title=True&card_width=900)
