@@ -34,8 +34,6 @@
 
 - [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
-
 #
 
 Другие проекты по работе с данными:
