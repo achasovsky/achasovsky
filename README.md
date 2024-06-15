@@ -49,6 +49,6 @@
 
 #
 
-Используемые языки программирования:
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=achasovsky&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
