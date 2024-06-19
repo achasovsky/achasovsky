@@ -24,7 +24,7 @@
 
 Ознакомьтесь с моими проектами:
 
-- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд "Экономика России" - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a> (в процессе; страница может довольно долго открываться)
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд "Экономика России" - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a> (в процессе; страница долго открывается)
 
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a> (в процессе)
 
