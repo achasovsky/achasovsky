@@ -24,13 +24,15 @@
 
 Ознакомьтесь с моими проектами:
 
-- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд "Экономика России" - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a> (в процессе)
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд "Экономика России" - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a> (в процессе; страница может довольно долго открываться)
 
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a> (в процессе)
 
 - [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
 
 - [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection</a>
+
+- [<img src='img/logo-economics.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Преобразование и визуализация данных Росстата - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
 
 - [<img src='img/logo-motogp.png' valign='0em' width='20'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
