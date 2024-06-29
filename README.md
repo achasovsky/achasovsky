@@ -34,7 +34,7 @@
 
 - [<img src='img/logo-economy.png' valign='-0.38em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Преобразование и визуализация данных Росстата - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
 
-- [<img src='img/logo-motogp.png' valign='-0.2em' width='24'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
+- [<img src='img/logo-motogp.png' valign='-0.15em' width='24'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика оценки чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
 #
 
