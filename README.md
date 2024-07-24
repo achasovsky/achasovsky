@@ -22,7 +22,7 @@
 
 #
 
-Ознакомьтесь с моими проектами:
+<b>Проекты</b>
 
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a> (в процессе)
 
