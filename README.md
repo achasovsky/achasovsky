@@ -15,7 +15,7 @@
 &ensp;&ensp;&ensp;&ensp;&nbsp; - дата-инженерные задачи, ETL-пайплайны (SQL, Clickhouse, Airflow);  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - визуализация и BI (Superset, Redash, Tableau);  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - программирование и статистические пакеты: Python, R, Stata;  
-&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: Sklearn, Scipy, Statsmodels, etc.
+&ensp;&ensp;&ensp;&ensp;&nbsp; - ML-алгоритмы и библиотеки Python: Sklearn, Scipy, Statsmodels, etc.  
 &ensp;&ensp;&ensp;&ensp;&nbsp; - HTML, CSS, JavaScript, D3.js.
 
 - 🎓 &nbsp; Изучаю сейчас:  
