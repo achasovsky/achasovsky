@@ -25,7 +25,7 @@
 
 <b>Проекты</b>
 
-- [<img src='img/racing-analytics.png' valign='-0.25em' width='10'>](https://achasovsky.github.io/racing-analytics/) &nbsp; Аналитика данных Формулы 1 - <a href='https://achasovsky.github.io/racing-analytics/'>Racing-Analytics</a>
+- [<img src='img/racing-analytics.png' valign='-0.25em' width='17'>](https://achasovsky.github.io/racing-analytics/) &nbsp; Аналитика данных Формулы 1 - <a href='https://achasovsky.github.io/racing-analytics/'>Racing-Analytics</a>
 
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a> (в процессе)
 
