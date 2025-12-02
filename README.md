@@ -25,6 +25,8 @@
 
 <b>Проекты</b>
 
+- [<img src='img/racing-analytics.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/racing-analytics/) &nbsp; Аналитика данных Formula1 - <a href='https://achasovsky.github.io/racing-analytics/'>Racing-Analytics</a> (в процессе)
+
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a> (в процессе)
 
 - [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
