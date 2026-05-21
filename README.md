@@ -28,7 +28,7 @@
 
 - [<img src='img/logo-credit-card.png' valign='-0.35em' width='19'>](https://achasovsky.github.io/credit-card-fraud-detection-1/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection-1/'>Credit-Card-Fraud-Detection-1</a>
 
-- [<img src='img/logo-cards.png' valign='-0.375em' width='19'>](https://github.com/achasovsky/credit-card-fraud-detection-2) &nbsp; Credit Card Fraud Detection (Kaggle dataset) - <a href='https://github.com/achasovsky/credit-card-fraud-detection-2'>5Credit-Card-Fraud-Detection-2</a>
+- [<img src='img/logo-cards.png' valign='-0.375em' width='19'>](https://achasovsky.github.io/credit-card-fraud-detection-2/) &nbsp; Credit Card Fraud Detection (Kaggle dataset) - <a href='https://achasovsky.github.io/credit-card-fraud-detection-2/'>Credit-Card-Fraud-Detection-2</a>
 
 - [<img src='img/logo-house.png' valign='-0.2em' width='20'>](https://achasovsky.github.io/house-prices/) &nbsp; Комбинирование регрессионного анализа и машинного обучения - <a href='https://achasovsky.github.io/advanced-regression/' target='_blank'>Advanced-Regression</a>
 
