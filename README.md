@@ -34,9 +34,9 @@
 
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a>
 
-- [<img src='img/logo-economy-dash.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд 'Экономика России' - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a>
-
 - [<img src='img/logo-economy.png' valign='-0.38em' width='20'>](https://achasovsky.github.io/economy-rus/) &nbsp; Преобразование и визуализация данных Росстата - <a href='https://achasovsky.github.io/economy-rus/'>Economy-Rus</a>
+
+- [<img src='img/logo-economy-dash.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд 'Экономика России' - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a>
 
 - [<img src='img/logo-motogp.png' valign='-0.13em' width='23'>](https://achasovsky.github.io/motogp-analytics/) &nbsp; Методика анализа данных чемпионата MotoGP - <a href='https://achasovsky.github.io/motogp-analytics/'>MotoGP-Analytics</a>
 
