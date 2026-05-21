@@ -30,6 +30,8 @@
 
 - [<img src='img/logo-credit-card.png' valign='-0.35em' width='20'>](https://achasovsky.github.io/credit-card-fraud-detection/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection</a>
 
+- [<img src='img/logo-cards.png' valign='-0.35em' width='20'>](https://github.com/achasovsky/credit-card-fraud-detection-dataset) &nbsp; Датасет Credit Card Fraud Detection - <a href='https://achasovsky.github.io/credit-card-fraud-detection/'>Credit-Card-Fraud-Detection-Dataset</a>
+
 - [<img src='img/logo-power.png' valign='-0.25em' width='19'>](https://achasovsky.github.io/autoregression-boosting/) &nbsp; Стратегии бустинга авторегрессионной модели - <a href='https://achasovsky.github.io/autoregression-boosting/'>Autoregression-Boosting</a>
 
 - [<img src='img/logo-economy-dash.png' valign='-0.35em' width='20'>](https://economy-rus-dash.onrender.com/inflation-and-prices) &nbsp; Дашборд 'Экономика России' - <a href='https://economy-rus-dash.onrender.com/inflation-and-prices'>Economy-Rus-Dashboard</a>
