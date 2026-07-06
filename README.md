@@ -24,7 +24,7 @@
 
 <b>Проекты</b>
 
-- [<img src='img/logo-helmet.png' valign='-0.25em' width='18'>](https://achasovsky.github.io/racing-analytics/) &nbsp; Аналитика данных Формулы-1 - <a href='https://achasovsky.github.io/racing-analytics/'>Racing-Analytics</a>
+- [<img src='img/logo-helmet.png' valign='-0.375em' width='18'>](https://achasovsky.github.io/racing-analytics/) &nbsp; Аналитика данных Формулы-1 - <a href='https://achasovsky.github.io/racing-analytics/'>Racing-Analytics</a>
 
 - [<img src='img/logo-credit-card.png' valign='-0.35em' width='19'>](https://achasovsky.github.io/credit-card-fraud-detection-1/) &nbsp; Обнаружение мошеннических операций с кредитными картами - <a href='https://achasovsky.github.io/credit-card-fraud-detection-1/'>Credit-Card-Fraud-Detection-1</a>
 
